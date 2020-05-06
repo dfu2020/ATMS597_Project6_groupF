@@ -13,5 +13,5 @@ Our goal is to train a neural network model to predict MODIS monthly cloud prope
 <b>Data:</b>
 
 MODIS Level 3 Monthly mean data at 1 degree grid (MOD08) are available at: https://earthdata.nasa.gov/ <br>
-NCEP Reanalysis Data were retrieved from: https://www.esrl.noaa.gov/psd/thredds/catalog/Datasets/catalog.html/ <br>
+NCEP Reanalysis Data were retrieved from: https://psl.noaa.gov/thredds/catalog/Datasets/ncep.reanalysis/catalog.html <br>
 NCEP Reanalysis data at 2.5 degree grid were resampled to 1 degree.
